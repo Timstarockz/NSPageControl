@@ -1,0 +1,289 @@
+TNSPageControl
+v7
+r0
+t323821558.932412
+cCheck dependencies
+cProcessInfoPlistFile /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Info.plist NSPageControl-Info.plist
+cCopyStringsFile /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib
+cCpResource build/Debug/NSPageControl.app/Contents/Resources/qr-youraweomseforreadingthis.png qr-youraweomseforreadingthis.png
+cProcessPCH /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch.gch NSPageControl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/main.o /Users/Timothy5216/Projects/Playground/NSPageControl/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControlAppDelegate.o /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.o /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl normal x86_64
+cTouch /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app
+
+N/Developer3/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKitDefines.h
+c000000004CC419840000000000000464
+t1287920004
+s1124
+
+N/Developer3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSControl.h
+c000000004CC4198400000000000013AF
+t1287920004
+s5039
+
+N/Developer3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer3/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/DDPageControl.h
+c000000004D807F96000000000000051A
+t1300266902
+s1306
+i<Foundation/Foundation.h>
+i<UIKit/UIControl.h>
+i<UIKit/UIKitDefines.h>
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/DDPageControl.m
+c000000004D807F960000000000001D2C
+t1300266902
+s7468
+i"DDPageControl.h"
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/InfoPlist.strings
+c000000004D9CC6AD000000000000002D
+t1302120109
+s45
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib
+c000000004D9CE6B1000000000002F441
+t1302128305
+s193601
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.h
+c000000004D9CC9340000000000000577
+t1302120756
+s1399
+i<Foundation/Foundation.h>
+i<AppKit/NSControl.h>
+i<AppKit/AppKitDefines.h>
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m
+c000000004D9CE4F00000000000001F8B
+t1302127856
+s8075
+i"NSPageControl.h"
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.h
+c000000004D9CE73100000000000001CF
+t1302128433
+s463
+i<Cocoa/Cocoa.h>
+i"NSPageControl.h"
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m
+c000000004D9CE8760000000000000268
+t1302128758
+s616
+i"NSPageControlAppDelegate.h"
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl_Prefix.pch
+c000000004D9CC6AD000000000000009D
+t1302120109
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app
+t1302128758
+s102
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Info.plist
+t1302120756
+s1302
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl
+t1302128758
+s31104
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/PkgInfo
+t1302120756
+s8
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1302120756
+s92
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/MainMenu.nib
+t1302128308
+s36687
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/qr-youraweomseforreadingthis.png
+t1302127386
+s796
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/DDPageControl.o
+t2
+s0
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.LinkFileList
+c000000004D9CC93400000000000001AF
+t1302120756
+s431
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.o
+t1302127856
+s42940
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControlAppDelegate.o
+t1302128758
+s23808
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/main.o
+t1302128433
+s5024
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/main.m
+c000000004D9CE73100000000000000F7
+t1302128433
+s247
+i<Cocoa/Cocoa.h>
+
+N/Users/Timothy5216/Projects/Playground/NSPageControl/qr-youraweomseforreadingthis.png
+c000000004D9A87B7000000000000031C
+t1301972919
+s796
+
+N/var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch.gch
+t1302120760
+s54306576
+
+NNSPageControl-Info.plist
+c000000004D9CC6AD00000000000003EA
+t1302120109
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323821558#323821558#0(0"0(0#1#0"8647752640#0"0#
+
+CCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/DDPageControl.o /Users/Timothy5216/Projects/Playground/NSPageControl/DDPageControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.o /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323820656.119923
+e323820656.329965
+r1
+xCompileC
+xbuild/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.o
+x/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m: In function '-[NSPageControl callTargetForValueChanged]':
+o/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: 'NSPageControl' may not respond to '-allTargets'
+o/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: (Messages without a matching method signature
+o/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: will be assumed to return 'id' and accept
+o/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: '...' as arguments.)
+lSLF07#2@76"Compile /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m323820656#323820656#0(618"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m: In function '-[NSPageControl callTargetForValueChanged]':/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: 'NSPageControl' may not respond to '-allTargets'/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: (Messages without a matching method signature/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: will be assumed to return 'id' and accept/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m:318: warning: '...' as arguments.)2(22@48"'NSPageControl' may not respond to '-allTargets'323820656#128#132#0(6@68"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m323820656#318#0#318#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)323820656#260#129#0(6@68"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m323820656#318#0#318#0#0"0(0#0#68"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m8629741216#1744"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv LANG en_US.US-ASCII    /Developer3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-generated-files.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-own-target-headers.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-all-target-headers.hmap -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-project-headers.hmap -F/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/include -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources/x86_64 -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources -include /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch -c /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl.m -o /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.o0#
+
+CCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControlAppDelegate.o /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323821558.736159
+e323821558.891698
+r1
+xCompileC
+xbuild/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControlAppDelegate.o
+x/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m323821558#323821558#0(0"0(0#0#79"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m8645185248#1766"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv LANG en_US.US-ASCII    /Developer3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-generated-files.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-own-target-headers.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-all-target-headers.hmap -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-project-headers.hmap -F/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/include -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources/x86_64 -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources -include /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch -c /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControlAppDelegate.m -o /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControlAppDelegate.o0#
+
+CCompileC build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/main.o /Users/Timothy5216/Projects/Playground/NSPageControl/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323821233.458780
+e323821233.632641
+r1
+xCompileC
+xbuild/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/main.o
+x/Users/Timothy5216/Projects/Playground/NSPageControl/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/Timothy5216/Projects/Playground/NSPageControl/main.m323821233#323821233#0(0"0(0#0#59"/Users/Timothy5216/Projects/Playground/NSPageControl/main.m8649352288#1726"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv LANG en_US.US-ASCII    /Developer3/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-generated-files.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-own-target-headers.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-all-target-headers.hmap -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-project-headers.hmap -F/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/include -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources/x86_64 -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources -include /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch -c /Users/Timothy5216/Projects/Playground/NSPageControl/main.m -o /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib
+s323821108.580644
+e323821108.992899
+r1
+xCompileXIB
+x/Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib323821108#323821108#0(0"0(0#0#79"/Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib8631484896#414"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    /Developer3/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/MainMenu.nib /Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/MainMenu.xib --sdk /Developer3/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s323813556.348945
+e323813556.660889
+r1
+xCopyStringsFile
+x/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings323813556#323813556#0(0"0(0#0#84"/Users/Timothy5216/Projects/Playground/NSPageControl/English.lproj/InfoPlist.strings8620741120#400"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv ICONV /usr/bin/iconv    /Developer3/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/NSPageControl.app/Contents/Resources/qr-youraweomseforreadingthis.png qr-youraweomseforreadingthis.png
+s323820186.514609
+e323820186.574710
+r1
+xCpResource
+xbuild/Debug/NSPageControl.app/Contents/Resources/qr-youraweomseforreadingthis.png
+xqr-youraweomseforreadingthis.png
+lSLF07#2@37"Copy qr-youraweomseforreadingthis.png323820186#323820186#0(0"0(0#0#85"/Users/Timothy5216/Projects/Playground/NSPageControl/qr-youraweomseforreadingthis.png8646364960#411"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    /Developer3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Timothy5216/Projects/Playground/NSPageControl/qr-youraweomseforreadingthis.png /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Resources0#
+
+CLd /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl normal x86_64
+s323821558.891795
+e323821558.929675
+r1
+xLd
+x/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl
+xnormal
+xx86_64
+lSLF07#2@116"Link /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl323821558#323821558#0(0"0(0#0#0"8649007680#644"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer3/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer3/SDKs/MacOSX10.6.sdk -L/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -F/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -filelist /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/Objects-normal/x86_64/NSPageControl.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/MacOS/NSPageControl0#
+
+CProcessInfoPlistFile /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Info.plist NSPageControl-Info.plist
+s323813556.323965
+e323813556.348857
+r1
+xProcessInfoPlistFile
+x/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Info.plist
+xNSPageControl-Info.plist
+lSLF07#2@32"Process NSPageControl-Info.plist323813556#323813556#0(0"0(0#0#77"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl-Info.plist32651569752113220#370"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    builtin-infoPlistUtility NSPageControl-Info.plist -genpkginfo /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch.gch NSPageControl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s323813556.696140
+e323813560.618020
+r1
+xProcessPCH
+x/var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch.gch
+xNSPageControl_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile NSPageControl_Prefix.pch323813556#323813560#0(0"0(0#0#77"/Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl_Prefix.pch8619342592#1612"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    setenv LANG en_US.US-ASCII    /Developer3/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer3/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-generated-files.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-own-target-headers.hmap -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-all-target-headers.hmap -iquote /Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/NSPageControl-project-headers.hmap -F/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/include -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources/x86_64 -I/Users/Timothy5216/Projects/Playground/NSPageControl/build/NSPageControl.build/Debug/NSPageControl.build/DerivedSources -c /Users/Timothy5216/Projects/Playground/NSPageControl/NSPageControl_Prefix.pch -o /var/folders/+0/+0UMaoAmHBOfAS2eK34KRk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NSPageControl_Prefix-dxesafhoqrfmydafxwqrnmsevvde/NSPageControl_Prefix.pch.gch0#
+
+CTouch /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app
+s323821558.929780
+e323821558.932372
+r1
+xTouch
+x/Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app
+lSLF07#2@88"Touch /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app323821558#323821558#0(0"0(0#0#0"8648855232#165"    cd /Users/Timothy5216/Projects/Playground/NSPageControl    /usr/bin/touch -c /Users/Timothy5216/Projects/Playground/NSPageControl/build/Debug/NSPageControl.app0#
+
